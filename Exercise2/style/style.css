@@ -1,0 +1,11 @@
+body {
+    background: white;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width:768px)
+{
+    .custom-input {
+        width: 100% !important;
+    }
+}
